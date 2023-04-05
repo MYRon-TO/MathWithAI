@@ -1,0 +1,7 @@
+研究内容：了解学习风格以及如何判断一个人的学习风格。
+研究方法：学习风格作为学习者相对稳定的带有个人特征的学习方式，被很多人认为是影响学习的重要因素之一，因此，基于学习风格的自适应系统就应运而生。虽然自适应系统各不相同，但他们都有一个共同点，既都需要采取不同方法来获取学习者的学习风格，这些年涌现出了许多学习风格模型，其中FSLSM被许多人认为是最适合应用于e-Learning的模型，因此本小组也将采用FSLSM的研究方法。
+文件综述：
+《Learning Behavior Analysis to Identify Learner’s Learning Style based on Machine Learning Techniques》Mehenaoui Zohra Yacine Lafifi Layachi Zemmouri
+《Detecção de estilos de aprendizagem no IFMG Campus Ponte Nova utilizando o modelo FSLSM》 Edson Batista de Sena Thamara Rosa Pedro
+《Using eye-tracking technology to identify learning styles: Behaviour patterns and identification accuracy》 Zhanni Luo
+
