@@ -4,4 +4,5 @@
 《Learning Behavior Analysis to Identify Learner’s Learning Style based on Machine Learning Techniques》Mehenaoui Zohra Yacine Lafifi Layachi Zemmouri
 《Detecção de estilos de aprendizagem no IFMG Campus Ponte Nova utilizando o modelo FSLSM》 Edson Batista de Sena Thamara Rosa Pedro
 《Using eye-tracking technology to identify learning styles: Behaviour patterns and identification accuracy》 Zhanni Luo
-
+已解决问题：学习风格与学习策略的匹配方法，能大致检测出一个人的学习风格
+未解决问题：少有研究涉及真实的日常学习材料，检测准确度仍需提升
