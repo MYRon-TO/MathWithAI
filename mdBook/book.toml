@@ -1,0 +1,6 @@
+[book]
+authors = ["MYRon-TO"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MathWithAI"
